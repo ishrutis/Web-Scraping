@@ -1,5 +1,5 @@
 # Web-Scraping
-This repository consists of different projects of scraping data from webpages using different techniques and approaches.
+This repository consists of different projects related to scraping data from webpages using different techniques and approaches.
 
 # Number of projects
 01
