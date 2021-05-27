@@ -8,6 +8,6 @@ This repository consists of different projects related to scraping data from web
 Github API documentation
 
 # Fetching data using API
-(Branch name - data_fetching_using_api) This is the project of taking different information from website by reading github api documentation and by using OAuth authentication.
+(Branch name - data_fetching_using_api) This is the project of taking different information from websites by reading github api documentation and by using OAuth authentication.
 - Application programing interface (API)
 - Python
