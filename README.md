@@ -10,13 +10,13 @@ This repository consists of different projects related to scraping data from web
 - Wikipedia: https://en.wikipedia.org/wiki/Artificial_intelligence
 - Quotes: http://quotes.toscrape.com
 ***********************************************************************************************************************************************************************************
-# Fetching data using API
+# 1.Fetching data using API
 (Branch name - data_fetching_using_api) This is the project of fetching information from websites by reading github API documentation and using JSON API to get data in user readable form. Authentication by website is done by using OAuth authentication.
 - Application programing interface (API)
 - Python
 - JSON
 
-# Fetching data using BeautifulSoup
+# 2.Fetching data using BeautifulSoup
 (Branch name - WebScraping_BeautifulSoup) This is the project of fetching information from different websites using BeautifulSoup to get data in user readable form.
 - BeautifulSoup
 - Python
